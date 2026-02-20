@@ -1,6 +1,5 @@
 ## Hi there 👋
-![Contributor - Hack The Stack](https://github.com/user-attachments/assets/9d5ee2a8-bf6d-409c-9c0b-c00ea8be1aaa)
-<img src = "https://github.com/user-attachments/assets/9d5ee2a8-bf6d-409c-9c0b-c00ea8be1aaa">
+<img src = "https://github.com/user-attachments/assets/9d5ee2a8-bf6d-409c-9c0b-c00ea8be1aaa" width =200px height =600px>
 <!--
 **adithyen/adithyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
